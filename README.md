@@ -1,14 +1,14 @@
 # MLworkshopTeh
-## Mini Practical Lecture Series: Application of Machine Learning in Environmental Data 🎓
+## 🎓 Mini Practical Lecture Series: Application of Machine Learning in Environmental Data 
 
  📝**Aim:** This series aims to equip attendees with the necessary tools and environment to begin working with environmental data using Machine Learning (ML). The series will cover system setups, introduction to Git, Python environments and packaging, data handling, and foundational concepts of ML with practical examples in environmental contexts. 
 
-**Material:** 
+**🏫 Material:** 
 - Jupyter Notebooks
 -  GitHub Repository ()
 
-**Day 1: Setting up and Data Handling Basics **
-- Laptop/System Setups: Guidelines for preparing a personal computer for ML work (Day1/00Setup.ipnyb)
+**Day 1: Setting up and Data Handling Basics**
+- Laptop/System Setups: Guidelines for preparing a personal computer for ML work (Day1/00Setup.ipnyb) 🔗
 - Introduction to Git & Version Control: Basics of using Git for code management (Dat1/01Git_python.ipynb)
 - Python Environments: Setting up and managing Python environments for ML projects (Dat1/01Git_python.ipynb)
 - Python Packaging: How to use and create Python packages (Day1/02Package.ipynb)
@@ -17,28 +17,30 @@
    - Data visualization with ``Matplotlib`` and ``Seaborn``,
    -  Using ``SciPy`` and ``SymPy``.
  
-**Day 2: Machine Learning Concepts and Environmental Applications **
+**Day 2: Machine Learning Concepts and Environmental Applications**
 
 - Basics & Concepts of Machine Learning: Understanding the core principles of ML, with a focus on classification and regression (Day2/03MLbasics.ipynb)
 - Practical Examples:
    - Creating a Python-based classification model.
    - Developing a regression model in Python. 
 
-- Environmental Case Studies: 
+- Environmental Case Studies:
+  - Predicting Earthquakes: Utilizing ML for seismic data analysis (Day2/04Seismic.ipynb)
+  - Sediment Prediction via Well Log Data: Applying ML to geological datasets (Day2/05Well.ipynb)
 
-Predicting Earthquakes: Utilizing ML for seismic data analysis. 
+ **End: Project Introduction: Discussion of a potential joint MSc/PhD topic in the realm of environmental ML.**
 
-Sediment Prediction via Well Log Data: Applying ML to geological datasets. 
+ # 🤖 Guide to using ChatGPT / Co-Pilot
 
-Things that will impact your overall marks for each section are:
-<p>✅ How clean and easy to read your code is, and how well structured your notebook/your class is: this includes using markdown cells to explain your decisions if needed (don't justify all basic decisions though: the code needs to speak for itself)</p>
-<p>✅ The overall performance of your algorithm at two distinct metrics:<br>
-<l>
-<ul>1. Obtaining as small a difference as possible between the F1 predicted on your test set, and the F1 of your prediction on the unkown samples.</ul>
-<ul>2. Using as few coefficients (`weights`) in your parametric model as possible, whilst maintaining a relatively high F1 score on your unseen data. This will be measured by the ratio of F1 / number of weights.</ul>
-</l>
-.</p>
-<p>✅ Whether or not you have demonstrated through code that your solution follows the best practices of data science.</p>
-<br>
+* ✅ Αre you allowed to use AI tools? Yes! This is a resource, just like any other resources. You should fully use them alongside `stack overflow`. But **efficient use** is key: you really need to know what you are doing.
+* 🐣 First, think about your learning, and how this will help you when you interview for a job, or try to solve a novel problem on your own - if there is no solution out there, none of the tools will help you.
+* 🕸️ Second, these tools are trained on legacy data - this means that their coding style is old, especially given how quickly ML tools evolve. For instance, `scikit-learn` has undergone a major revision late last year, which changes the way we code some exercises. If you ask ChatGPT, your solution will look odd and you will lose points for not having the best coding style.
+* 🧗 In summary, to use the tools well, you need to understand what you are coding, and to understand what you are coding, you need to go through some sweat and tears to do things from scratch. Otherwise, you may never improve your coding style and over-rely on automated tools.
+* 🤔 Ethical Use and Academic Integrity: Please check the policy where you are using these.
+* 🔍 Critical Thinking and Verification: AI tools provide suggestions, not absolute truths. Always verify the accuracy and applicability of the information. Critical thinking is key – don't accept AI outputs at face value.
+* ⏳ Dynamic Nature of AI Tools: Be aware that AI tools are constantly evolving. What they provide today might change tomorrow. Keep up-to-date with the latest advancements and limitations of these tools for the most effective use.
+* 💡 Hands-On Experience with AI Limitations: It's essential to recognize the limitations of AI. Through specific assignments, you'll experience where AI falls short, helping you understand when and how to rely on these tools, and more importantly, when not to.
+
+
 
 
