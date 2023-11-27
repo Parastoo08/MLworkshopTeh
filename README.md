@@ -8,9 +8,9 @@
 -  GitHub Repository ()
  
 **Day 1: Setting up and Data Handling Basics**
-- Laptop/System Setups: Guidelines for preparing a personal computer for ML work (Day1/00Setup.ipnyb) 🔗
-- Introduction to Git & Version Control: Basics of using Git for code management (Dat1/01Git_python.ipynb)
-- Python Environments: Setting up and managing Python environments for ML projects (Dat1/01Git_python.ipynb)
+- Laptop/System Setups: Guidelines for preparing a personal computer for ML work (Day1/00Setup.ipnyb and 01Extra.ipynb) 🔗
+- Introduction to Git & Version Control: Basics of using Git for code management (Day1/01Git_python.ipynb)
+- Python Environments: Setting up and managing Python environments for ML projects (Day1/01Git_python.ipynb)
 - Python Packaging: How to use and create Python packages (Day1/02Package.ipynb)
 - Data Handling Basics (Day1/03Dataanalysis.ipnyb) 📊
    - Introduction to ``Pandas`` and ``NumPy`` for data manipulation,
