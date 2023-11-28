@@ -14,8 +14,9 @@
 - Python Packaging: How to use and create Python packages (Day1/02Package.ipynb)
 - Data Handling Basics (Day1/03Dataanalysis.ipnyb) 📊
    - Introduction to ``Pandas`` and ``NumPy`` for data manipulation,
-   - Data visualization with ``Matplotlib`` and ``Seaborn``,
-   -  Using ``SciPy`` and ``SymPy``.
+   - Data visualization with ``Matplotlib`` and ``Seaborn``.
+ 
+     
 **Day 2: Machine Learning Concepts and Environmental Applications**
  
 - Basics & Concepts of Machine Learning: Understanding the core principles of ML, with a focus on classification and regression (Day2/03MLbasics.ipynb)
