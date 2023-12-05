@@ -1,0 +1,17 @@
+name: dsml4p
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+ - pip
+ - ipython
+ - jupyter
+ - numpy
+ - scipy
+ - pandas
+ - matplotlib
+ - umap-learn
+ - graphviz
+ - pydot
+ - pip:
+   - -r requirements.txt
