@@ -2,13 +2,15 @@
 ## 🎓 Mini Practical Lecture Series: Application of Machine Learning in Environmental Data
 
 ## recordings:
-1- https://imperiallondon-my.sharepoint.com/:v:/g/personal/psalah_ic_ac_uk/EQNv2LBnbMJLnUZYwq6z54gBrwJB_tajCjaXrcGNihKGcQ?referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view.view
+1- [https://imperiallondon-my.sharepoint.com/:v:/g/personal/psalah_ic_ac_uk/EQNv2LBnbMJLnUZYwq6z54gBrwJB_tajCjaXrcGNihKGcQ?referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view.view
+](https://imperiallondon-my.sharepoint.com/:v:/g/personal/psalah_ic_ac_uk/EQNv2LBnbMJLnUZYwq6z54gBrwJB_tajCjaXrcGNihKGcQ)
 
-2- https://imperiallondon-my.sharepoint.com/:v:/g/personal/psalah_ic_ac_uk/EQWn8VeiX8RIp_NGIOV0v88B2rTuWQ8fc-u0y_B-X-noNw?referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view.view
-
+2- [https://imperiallondon-my.sharepoint.com/:v:/g/personal/psalah_ic_ac_uk/EQWn8VeiX8RIp_NGIOV0v88B2rTuWQ8fc-u0y_B-X-noNw?referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view.view
+](https://imperiallondon-my.sharepoint.com/:v:/g/personal/psalah_ic_ac_uk/EQWn8VeiX8RIp_NGIOV0v88B2rTuWQ8fc-u0y_B-X-noNw)
 3- 
 
-4- https://imperiallondon-my.sharepoint.com/:v:/g/personal/psalah_ic_ac_uk/ESPQgsj2nwRLoiqw8e091sUBGJutuqLQuwwTJrHdLOq_Gg?referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view.view
+4- [https://imperiallondon-my.sharepoint.com/:v:/g/personal/psalah_ic_ac_uk/ESPQgsj2nwRLoiqw8e091sUBGJutuqLQuwwTJrHdLOq_Gg?referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view.view
+ ](https://imperiallondon-my.sharepoint.com/:v:/g/personal/psalah_ic_ac_uk/ESPQgsj2nwRLoiqw8e091sUBGJutuqLQuwwTJrHdLOq_Gg)
  
 📝**Aim:** This series aims to equip attendees with the necessary tools and environment to begin working with environmental data using Machine Learning (ML). The series will cover system setups, introduction to Git, Python environments and packaging, data handling, and foundational concepts of ML with practical examples in environmental contexts.
  
